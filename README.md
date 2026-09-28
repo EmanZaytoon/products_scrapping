@@ -17,3 +17,8 @@ pip install -r requirements.txt
 Run
 
 Run theproducts_scrapping.py Python file of the project.
+Demo
+
+Watch the application in action:
+
+▶️ Watch the demo on YouTube
