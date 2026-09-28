@@ -11,3 +11,9 @@ A Python desktop application for searching products across Amazon, Jumia, and No
 - Export product links
 - Desktop GUI built with PyQt5
 - SeleniumBase for web scraping
+- Install the required Python packages:
+
+pip install -r requirements.txt
+Run
+
+Run theproducts_scrapping.py Python file of the project.
